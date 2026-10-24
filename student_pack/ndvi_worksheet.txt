@@ -1,0 +1,20 @@
+NDVI-Style Educational Tool – Student Worksheet
+================================================
+
+1. What does NDVI stand for?
+________________________________________________
+
+2. Why can't a normal phone camera calculate real NDVI?
+________________________________________________
+
+3. What is the difference between RGB and multispectral cameras?
+________________________________________________
+
+4. Upload or select an image. What Mean Green Index did you get?
+   Value: ________     Interpretation: ________________
+
+5. Looking at the Green Index map, which parts of the image look healthiest?
+________________________________________________
+
+6. One real-world use of vegetation indices is:
+________________________________________________

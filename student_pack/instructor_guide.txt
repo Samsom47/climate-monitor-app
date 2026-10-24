@@ -1,0 +1,40 @@
+SpacePoint Climate Monitoring – Instructor Guide
+================================================
+
+Learning Objectives
+-------------------
+- Understand basic land-cover classification from aerial images
+- Calculate and interpret vegetation cover (green pixel ratio)
+- Explain the urban heat island effect
+- Read simple environmental sensor data
+- Link observations to real climate actions
+
+Suggested Time: 45–60 minutes
+Materials: Laptop or mobile phone + the SpacePoint website
+
+How to Run the Session
+----------------------
+1. Open the website (streamlit run app.py or shared link)
+2. Let students explore for 10 minutes
+3. Ask them to complete the worksheet
+4. Discuss answers as a group
+
+Answer Guidance
+---------------
+1. Students should describe vegetation, water, buildings, soil, etc.
+2. Hotter zones = bright/red areas in the heatmap (urban/concrete)
+3. Higher green % = more vegetation
+4. Possible problems: heat islands, low greenery, moderate/poor air quality
+5. Possible actions: plant trees, create parks, reduce vehicle emissions, green roofs
+
+Discussion Questions
+--------------------
+- Why do cities get hotter than the countryside?
+- How can drones help us understand climate issues?
+- What simple actions can students take in their own area?
+
+Extension Ideas
+---------------
+- Students bring their own phone photos of parks vs streets
+- Compare green ratio of different local areas
+- Discuss real news about heatwaves or air quality
